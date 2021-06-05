@@ -5,6 +5,9 @@ function getEle(id) {
   return document.getElementById(id);
 }
 
+function addUser(){
+  console.log("đây là acc đã làm xong");
+}
 getLocalStorage();
 
 //lấy thông tin đầu vào
